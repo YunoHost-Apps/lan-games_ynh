@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+A self-hosted multiplayer game platform for LAN parties. Eight classic games with real-time play, hidden information, and spectator support — all running on a server you control.
