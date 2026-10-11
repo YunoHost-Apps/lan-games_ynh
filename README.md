@@ -19,7 +19,7 @@ Game plateform to play in your browser
 
 
 ## Screenshots
-![Screenshot of LAN Games](./doc/screenshots/example.jpg)
+![Screenshot of LAN Games](./doc/screenshots/lan-games.png)
 
 ## 📦 Developer info
 
